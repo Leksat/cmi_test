@@ -1,0 +1,21 @@
+uuid: a6b8ad7b-1f5a-43ed-a259-89b0023e9815
+langcode: en
+status: true
+dependencies:
+  entity:
+    - block_content.type.basic
+    - field.storage.block_content.body
+id: block_content.basic.body
+field_name: body
+entity_type: block_content
+bundle: basic
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+third_party_settings: {  }
+field_type: text_with_summary
