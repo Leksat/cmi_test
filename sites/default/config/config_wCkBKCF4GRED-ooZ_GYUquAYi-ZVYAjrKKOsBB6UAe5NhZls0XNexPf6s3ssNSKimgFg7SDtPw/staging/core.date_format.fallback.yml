@@ -1,8 +1,0 @@
-uuid: b573c6ce-7f69-4797-b023-35a582199560
-langcode: en
-status: true
-dependencies: {  }
-id: fallback
-label: 'Fallback date format'
-locked: true
-pattern: 'D, m/d/Y - H:i'
